@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Mascota</string>
+    <color name="colorBlanco">#FFFFFF</color>
+
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca">Acerca de</string>
+
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_gmail">Email</string>
+    <string name="mensaje">Mensaje </string>
+    <string name="btnEnviarComentario">Enviar </string>
+    <string name="tvdatos_contacto">Datos de Contacto</string>
+
+    <string name="txtv_bionombre">Yadier Caicedo Martinez</string>
+    <string name="tv_biotitulo">Tegnologo  en Electronica</string>
+    <string name="tv_biodescripcion">Naci en vigia del fuerte antoquia y vivo en medellin.
+    Mi pasión por la programación y creer que todo puede ser mejor  me trajo hasta aqui.\n Me gusta programar. </string>
+</resources>
